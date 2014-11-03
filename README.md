@@ -2,4 +2,4 @@ testgithubs
 ===========
 
 test
-hello world
+hello world!
